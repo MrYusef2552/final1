@@ -6,3 +6,8 @@
 
 a:link {
   color: rgb(255, 255, 255);
+
+#selector {
+    width:100%;
+    height:100%;
+}
